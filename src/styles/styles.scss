@@ -1,0 +1,10 @@
+@use '../styles/global';
+
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+	background-color: global.$darker;
+	color: global.$light;
+}

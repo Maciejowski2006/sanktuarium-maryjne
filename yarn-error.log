@@ -1,0 +1,56 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js add @react-icons/all-files --save
+
+PATH: 
+  C:\Users\Maciej\.oh-my-posh;C:\Users\Maciej\.oh-my-posh;P:\Programy\PlasticSCM\server;P:\Programy\PlasticSCM\client;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;P:\Programy\VMWare Workstation Pro\bin\;P:\Oculus\Support\oculus-runtime;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;P:\Programy\Git LFS;C:\Program Files\Git LFS;P:\Programy\WinSCP\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\JetBrains\shell;C:\Users\Maciej\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\GitHub CLI\;P:\Programy\Git\cmd;C:\Program Files\Perforce\Server\;C:\Program Files\Perforce\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Maciej\AppData\Local\Microsoft\WindowsApps;C:\Users\Maciej\AppData\Local\atom\bin;P:\Programy\VSCode Insiders\bin;C:\Users\Maciej\.dotnet\tools;C:\tools\neovim\Neovim\bin;C:\Program Files (x86)\Nmap;C:\Program Files\PostgreSQL\14\bin;C:\Users\Maciej\Desktop\sites\sanktuarium-maryjne\node_modules\.bin
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  16.14.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'C:\Users\Maciej\Desktop\sites\sanktuarium-maryjne\node_modules\@parcel\fs-search\fs-search.win32-x64-msvc.node'
+
+npm manifest: 
+  {
+    "name": "sanktuarium-maryjne",
+    "version": "1.0.0",
+    "private": true,
+    "description": "sanktuarium-maryjne",
+    "author": "Maciej Chmiel",
+    "keywords": [
+      "gatsby"
+    ],
+    "scripts": {
+      "develop": "gatsby develop",
+      "start": "gatsby develop",
+      "build": "gatsby build",
+      "serve": "gatsby serve",
+      "clean": "gatsby clean",
+      "typecheck": "tsc --noEmit"
+    },
+    "dependencies": {
+      "gatsby": "^4.14.1",
+      "gatsby-plugin-sass": "^5.14.0",
+      "react": "^17.0.1",
+      "react-dom": "^17.0.1",
+      "sass": "^1.52.1"
+    },
+    "devDependencies": {
+      "@types/node": "^17.0.31",
+      "@types/react": "^17.0.44",
+      "@types/react-dom": "^17.0.16",
+      "typescript": "^4.6.4"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
