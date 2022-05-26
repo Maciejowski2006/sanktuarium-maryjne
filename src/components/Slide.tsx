@@ -4,10 +4,10 @@ import './slide.scss'
 
 const Slide = (props: any) => {
     return (
-        <main>
+        <section>
             <h2>{props.title}</h2>
             {props.children}
-        </main>
+        </section>
     );
 }
 

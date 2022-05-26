@@ -8,3 +8,24 @@ body {
 	background-color: global.$darker;
 	color: global.$light;
 }
+section {
+	width: 100%;
+}
+
+// Scrollbar
+::-webkit-scrollbar {
+	background-color: global.$dark;
+	border-radius: 10px 0 0 10px;
+	width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: global.$accent;
+	border-radius: 10px 0 0 10px;
+	transition-duration: 200ms;
+	
+}
+::-webkit-scrollbar-thumb:active {
+	background-color: global.$accent2;
+	border-radius: 10px;
+}

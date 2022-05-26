@@ -17,30 +17,37 @@ const Navbar = () => {
     const RemNavClass = () => {
         setClass(getClass.replace(' navigation--active', ''));
     }
+    const Scroll = () => {
+        const windowY: number = window.screenY;
+        console.log(window.screenY)
+
+        const calculatedPositon: number = windowY * 2;
+
+        window.scrollTo(0, calculatedPositon);
+    }
 
     return (
         <nav>
             <button
+                className={'button__menu'}
                 onClick={AddNavClass}
             >
                 <GiHamburgerMenu />
             </button>
             <div className={getClass}>
                 <button
-                    className={'navigation__button--opened'}
+                    className={'navigation__button--opened button__menu'}
                     onClick={RemNavClass}
                 >
                     <GrClose></GrClose>
                 </button>
                 <div className={'navigation__items'}>
-                    <a href="#o-sanktuarium">Test</a>
+                    <button onClick={Scroll}>Test</button>
                     <a href="#o-sanktuarium">Test</a>
                     <a href="#o-sanktuarium">Test</a>
                 </div>
             </div>
         </nav>
-
-
     );
 }
 
