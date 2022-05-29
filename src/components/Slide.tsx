@@ -5,7 +5,7 @@ import './slide.scss'
 const Slide = (props: any) => {
     return (
         <section>
-            <h2>{props.title}</h2>
+            <h2 id={props.sid}>{props.title}</h2>
             {props.children}
         </section>
     );

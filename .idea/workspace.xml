@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8137722-82d7-4a3f-b611-4694a8e78af5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/slide_imgGrid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Slide.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slide.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/slide.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/slide.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +53,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Maciej\\Desktop\\sites\\sanktuarium-maryjne\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -111,7 +106,11 @@
       <workItem from="1653156734250" duration="2445000" />
       <workItem from="1653223316703" duration="2915000" />
       <workItem from="1653576045525" duration="6126000" />
-      <workItem from="1653585460672" duration="2510000" />
+      <workItem from="1653585460672" duration="3485000" />
+      <workItem from="1653667611369" duration="2504000" />
+      <workItem from="1653748833422" duration="5529000" />
+      <workItem from="1653835514759" duration="850000" />
+      <workItem from="1653848463597" duration="894000" />
     </task>
     <servers />
   </component>
