@@ -48,17 +48,17 @@ const IndexPage = () => {
                             <li>1151 r. - Pierwsza historyczna wzmianka dotycząca Lichenia - Piotr Dunin postawił wtedy granitowy krzyż w połowie drogi między Grąblinem a Licheniem, czym zaznaczył szlak z Kalisza do Kruszwicy. Krzyż stoi obecnie w kapliczce w centrum wsi.</li>
                             <li>1232 r. - Pierwsze wzmianki o kapelanach licheńskich.</li>
                             <li>1415 r. - Biskup poznański Andrzej Łaskarz z rodu Godziembów Licheńskich ufundował parafię i kościół pod wezwaniem św. Doroty Panny i Męczenniczki.</li>
-                            <li>1655 r. - Nazjad Szwedów -  położył on kres miasteczku, ludność została wymordowana, a kościół zniszczony i ograbiony.</li>
+                            <li>1655 r. - Nazjad Szwedów, położył on kres miasteczku - ludność została wymordowana, a kościół zniszczony i ograbiony.</li>
                             <li>1728 r. - Odbudowa zdewastowanej świątyni.</li>
                             <li>1800 r. - Rozbiórka starej świątyni - w jej miejscu powstał nowy kościół.</li>
                             <li>1813 r. - Bitwa pod Lipskiem. Pierwsze objawienia, których doznał ranny żołnierz - Tomasz Kłossowski.</li>
-                            <li>1819 r. - Właścicielami Lichenia został ród Kwileckich - od początku planowali wybudowanie murowanego kościoła. Miał zastąpić zbyt małą świątynię, lecz ze względu na zubożenie ludności plany te trzeba było odłożyć na później.</li>
+                            <li>1819 r. - Właścicielami Lichenia został ród Kwileckich - od początku planowali wybudowanie murowanego kościoła. Miał zastąpić zbyt małą świątynię, lecz ze względu na zubożenie ludności plany te odłożono na później.</li>
                             <li>1836 r. - Kłossowski odnalazł po latach poszukiwań na przydrożnym drzewie koło wsi Lgota podczas pielgrzymki na Jasną Górę obraz zgodny z wizją i po uzyskaniu zgody właściciela zabrał go ze sobą do domu w Izabelinie.</li>
                             <li>1844 r. - Tomasz Kłossowski umieścił obrazek na sośnie w pobliskim lesie.</li>
                             <li>1845 r. - Hrabina Izabela Kwilecka położyła kamień węgielny pod budowę kościoła murowanego.</li>
                             <li>1848 r. - Śmierć Tomasza Kłossowskiego.</li>
-                            <li>1850 r. - Objawienia Matki Bożej Mikołajowi Sikatce. Podczas objawień, według relacji wizjonera zachowanej w ludowym przekazie, Maryja wzywała do modlitwy, szczególnie różańcowej. Zapowiedziała epidemie i wojny oraz odrodzenie Polski. Prosiła, aby kapłani odprawiali msze św. przebłagalne, chciała, żeby obraz był przeniesiony z lasu w godniejsze miejsce. Zapowiedziała budowę wielkiego kościoła ku jej czci.</li>
-                            <li>1852 r. - Po wybuchu epidemii cholery i wzmożeniu kultu, na mocy decyzji ks. biskupa Jana Michała Marszewskiego, obraz został przeniesiony do kaplicy w Licheniu (obecny kościół MB Częstochowskiej).</li>
+                            <li>1850 r. - Objawienia Matki Bożej Mikołajowi Sikatce. Podczas objawień, według relacji wizjonera zachowanej w ludowym przekazie, Maryja wzywała do modlitwy(w szczególności różańcowej). Zapowiedziała epidemie i wojny oraz odrodzenie Polski. Prosiła, aby kapłani odprawiali msze św. przebłagalne. Chciała, żeby obraz był przeniesiony z lasu w godniejsze miejsce. Zapowiedziała budowę wielkiego kościoła ku jej czci.</li>
+                            <li>1852 r. - Po wybuchu epidemii cholery i wzmożeniu kultu, na mocy decyzji ks. biskupa Jana Michała Marszewskiego, obraz został przeniesiony do kaplicy w Licheniu (obecny kościół Matki Boskiej Częstochowskiej).</li>
                             <li>1858 r. - Nastąpiła konsekracja murowanego kościoła w stylu neogotyckim (obecny kościół św. Doroty).</li>
                             <li>1921–1924 r. - Pobyt i uzdrowienie Stefana Wyszyńskiego..</li>
                             <li>1940–1945 r. - Kościół św. Doroty w czasie wojny został siedzibą obozu Hitlerjugend – młodzieży hitlerowskiej. Niemcy ograbili kościół, jednak sam obraz został ukryty przez parafian.</li>
@@ -68,7 +68,7 @@ const IndexPage = () => {
                             <li>1967 r. - Kustoszem został ks. Eugeniusz Makulski MIC. Ks. kard. Stefan Wyszyński ukoronował Cudowny Obraz Matki Boskiej Licheńskiej koroną papieską, papież Paweł VI obdarzył też sanktuarium przywilejem odpustu zupełnego w każdy dzień roku.</li>
                             <li>1968 r. - Poświęcenie źródełka, budowa kapliczki w lesie grąblińskim na miejscu objawień.</li>
                             <li>1969 r. - Odbudowa i poświęcenie kościoła Matki Bożej Częstochowskiej.</li>
-                            <li>1970 r. - Poświęcenie Kaplicy św. Krzyża w której umieszczono krzyż, do którego strzelała wychowawczyni Hitlerjugend.</li>
+                            <li>1970 r. - Poświęcenie Kaplicy św. Krzyża w której umieszczono krzyż do którego strzelała wychowawczyni Hitlerjugend.</li>
                             <li>1975 r. - Budowa mauzoleum pasterza Mikołaja Sikatki i kapliczki objawień Tomasza Kłossowskiego.</li>
                             <li>1976 r. - Początek budowy Golgoty.</li>
                             <li>1993 r. - Zatwierdzenie projektu budowy bazyliki, opracowanego przez Barbarę Bielecką.</li>
