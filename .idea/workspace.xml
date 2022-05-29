@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8137722-82d7-4a3f-b611-4694a8e78af5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slide.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slide.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/slide.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/slide.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +107,7 @@
       <workItem from="1653667611369" duration="2504000" />
       <workItem from="1653748833422" duration="5529000" />
       <workItem from="1653835514759" duration="850000" />
-      <workItem from="1653848463597" duration="894000" />
+      <workItem from="1653848463597" duration="2683000" />
     </task>
     <servers />
   </component>

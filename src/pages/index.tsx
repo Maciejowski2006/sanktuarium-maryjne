@@ -14,7 +14,7 @@ const IndexPage = () => {
                             Ośrodek kultu maryjnego o znaczeniu ogólnopolskim i międzynarodowym, jest położony w Licheniu Starym. Sanktuarium leży na terenie parafii św. Doroty, w diecezji włocławskiej.
                         </p>
                         <p>
-                            Za początek sanktuarium odpowiadają objawnienia marjne w pierwszej połowie XIX wieku, którymi świadkami byli Tomasz Kłossowski i Mikołaj Sikatka.
+                            Za początek sanktuarium odpowiadają objawnienia marjne z pierwszej połowy XIX wieku, którymi świadkami byli Tomasz Kłossowski i Mikołaj Sikatka.
                         </p>
                         <p>
                             Sanktuarium związane jest z objawieniami maryjnymi i uznawane jest za cudowny obraz Matki Boskiej Licheńskiej. Głównym kościołem sanktuarium jest obecnie bazylika Najświętszej Maryi Panny Licheńskiej w Licheniu Starym.
@@ -35,7 +35,7 @@ const IndexPage = () => {
                     </Slide>
                     <Slide title={"Bazylika"}>
                         <p>
-                            Bazylika Najświętszej Maryi Panny Licheńskiej, często jest nazywana niepoprawnie: "Bazylika Matki Bożej Bolesnej Królowej Polski". Jest to obecnie największy kościół w Polsce. Jest to ważny katolicki ośrodek religijny w kraju. wzniesiono go dla upamiętnienia objawień z lat 1813 i 1850–1852, których świadkami byli Tomasz Kłossowski i Mikołaj Sikatka.
+                            Bazylika Najświętszej Maryi Panny Licheńskiej, często jest nazywana niepoprawnie Bazyliką Matki Bożej Bolesnej Królowej Polski. Jest to obecnie największy kościół w Polsce. To ważny katolicki ośrodek religijny w kraju. Wzniesiono go dla upamiętnienia objawień z lat 1813 i 1850–1852.
                         </p>
                     </Slide>
                     <Slide title={"Ważne obiekty"}>
@@ -43,7 +43,7 @@ const IndexPage = () => {
                             W skład sanktuarium wchodzi zespół kościołów, kaplice, klasztory, cmentarz, kamienną Golgotę, część muzeum im. ks. Józefa Jarzębowskiego z Fawley Court, muzeum budowy bazyliki, Licheńskie Centrum Pomocy Rodzinie i Osobom Uzależnionym, hospicjum im. bł. Stanisława Papczyńskiego, Centrum Formacji Maryjnej „Salvatoris Mater”, Duszpasterstwo Młodzieży i Powołań, Dom Papieski, źródełko, figury i pomniki oraz inne obiekty sakralne i infrastruktury pielgrzymkowej.
                         </p>
                     </Slide>
-                    <Slide title={" Skrócone kalendarium"}>
+                    <Slide title={"Kalendarium"}>
                         <ul>
                             <li>1151 r. - Pierwsza historyczna wzmianka dotycząca Lichenia - Piotr Dunin postawił wtedy granitowy krzyż w połowie drogi między Grąblinem a Licheniem, czym zaznaczył szlak z Kalisza do Kruszwicy. Krzyż stoi obecnie w kapliczce w centrum wsi.</li>
                             <li>1232 r. - Pierwsze wzmianki o kapelanach licheńskich.</li>
